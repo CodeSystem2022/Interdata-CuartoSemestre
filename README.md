@@ -20,7 +20,7 @@
 |   Semana | Alumno a cargo |
 | --------- | -----:|
 | **Semana 1**  | Daiana Figueroa |
-| **Semana 2**  |  |
+| **Semana 2**  | Silvina Prado |
 | **Semana 3** |  |
 | **Semana 4**  |  |
 | **Semana 5**  |  |
