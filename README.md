@@ -22,6 +22,6 @@
 | **Semana 1**  | Daiana Figueroa |
 | **Semana 2**  | Silvina Prado |
 | **Semana 3** |  Franco Bianchi|
-| **Semana 4**  |  |
+| **Semana 4**  | Gabriel Echeve |
 | **Semana 5**  |  |
 | **Semana 6**  |  |
