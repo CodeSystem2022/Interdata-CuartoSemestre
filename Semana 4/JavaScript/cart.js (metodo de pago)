@@ -1,0 +1,8 @@
+modalContainer.append(modalFooter);
+else{
+  const modalText = document.createElement("h2");
+  modalText.className = "modal-body";
+  modalText.innerText = "your cart is empty";
+  modalContainer.append(modalText);
+}
+.
