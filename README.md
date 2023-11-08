@@ -24,4 +24,4 @@
 | **Semana 3** |  Franco Bianchi|
 | **Semana 4**  | Gabriel Echeve |
 | **Semana 5**  | Ignacio Buchter |
-| **Semana 6**  |  |
+| **Semana 6**  | Daiana Figueroa  |
