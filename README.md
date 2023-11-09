@@ -24,7 +24,7 @@
 | **Semana 3** |  Franco Bianchi|
 | **Semana 4**  | Gabriel Echeve |
 | **Semana 5**  | Ignacio Buchter |
-| **Semana 6**  | Silvina Prado   |
+| **Semana 6**  |   |
 | **Semana 7**  |   |
 | **Semana 8**  |   |
 | **Semana 9**  |   |
