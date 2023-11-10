@@ -27,5 +27,5 @@
 | **Semana 6**  | Daiana Figueroa |
 | **Semana 7**  | Silvina Prado |
 | **Semana 8**  | Ignacio Buchter  |
-| **Semana 9**  |   |
+| **Semana 9**  | Gabriel Echave |
 | **Semana 10** |   |
