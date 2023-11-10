@@ -28,4 +28,4 @@
 | **Semana 7**  | Silvina Prado |
 | **Semana 8**  | Ignacio Buchter  |
 | **Semana 9**  | Gabriel Echave |
-| **Semana 10** |   |
+| **Semana 10** | Francisco Chahla  |
