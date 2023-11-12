@@ -34,6 +34,7 @@ export const signup = async (req, res, next) => {
   try {
     const hashedPassword = await bcrypt.hash(password, 10);
     md5(email);
+    
     const gravatar = "https://gravatar.com/avatar/" + md5(email);
 
     const result = await pool.query(
